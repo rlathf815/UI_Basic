@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">UI_Basic</string>
+    <string name="btn1_msg">Button1 clicked</string>
+    <string name="btn2_msg">Button2 clicked</string>
+    <string name="btn3_msg">Button3 clicked</string>
+    <string name="btn4_mgg">Button4 clicked</string>
+    <string name="btn5_mgg">Button5 clicked</string>
+    <string name="btn6_mgg">Button6 clicked</string>
+
+
+</resources>
